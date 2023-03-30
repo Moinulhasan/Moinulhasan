@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moinul Hasan Khan</h1>
-<h3 align="center">I am a passionate Bangladesh-based frontend developer with expertise in PHP, Laravel,React.js. I also have significant experience in MySQL and MongoDB for database management.</h3>
+<h3 align="center">I am a passionate Full stack developer with expertise in PHP, Laravel,React.js. I also have significant experience in MySQL and MongoDB for database management.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
