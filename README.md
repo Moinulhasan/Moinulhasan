@@ -1,30 +1,109 @@
-<h1 align="center">Hi 👋, I'm Moinul Hasan Khan</h1>
-<h3 align="center">I am a passionate Full stack developer with expertise in PHP, Laravel,React.js. I also have significant experience in MySQL and MongoDB for database management.</h3>
+# 🚀 Moinul Hasan Khan  
+### Senior Backend Architect | Laravel Expert | Microservices & SaaS Engineer
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moinul-hasan-4bb33a139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moinul-hasan-4bb33a139" height="30" width="40" /></a>
+<p align="center">
+Building scalable systems • Architecting SaaS platforms • Optimizing performance at scale
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>  </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinulhasan&show_icons=true&locale=en&layout=compact" alt="moinulhasan" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moinulhasan&show_icons=true&locale=en" alt="moinulhasan" /></p>
+I am a Backend Architect with **5+ years of experience** designing and delivering scalable, high-performance web applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinulhasan&" alt="moinulhasan" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="moinulhasan" /> </p>
+I specialize in:
 
+- ⚡ Microservices Architecture
+- 🧠 SaaS System Design
+- 🚀 Performance Optimization (Redis, Caching, Queues)
+- ☁️ AWS Cloud Deployment
+- 🔐 Secure REST API & Payment Gateway Integration
 
+I don’t just write code — I design systems that scale.
 
-- 🌱 I’m currently learning **Laravel,Go**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/moinul-hasan-4bb33a139/](https://www.linkedin.com/in/moinul-hasan-4bb33a139/)
+## 🏗 Production Systems
 
-- 💬 Ask me about **Php, react**
+### 🚆 Rapid Pass Top-Up System (Bangladesh Metro Rail)
+- Balance check & transaction history system  
+- SSLCommerz payment integration  
+- Laravel backend + React frontend  
+- Secure financial transaction processing  
 
-- 📫 How to reach me **moinulhasan.4960@gmail.com**
+### 🎬 Star Cineplex Application
+- Online ticketing & food/add-on purchase  
+- Virtual prepaid card (online + offline use)  
+- Microservices-based backend  
+- Laravel + MySQL + Redis  
 
-- 📄 Know about my experiences [shorturl.at/ltEQ6](shorturl.at/ltEQ6)
+### 📊 BAT Distributor ROI Dashboard
+- Advanced commission calculation engine  
+- Route-level sales & expense tracking  
+- Asset shifting system  
+- Laravel + React + Redis  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Backend
+- PHP
+- Laravel
+- REST APIs
+- Microservices
+- Redis
+- RabbitMQ
+
+### 🗄 Database
+- MySQL
+- MongoDB
+
+### 🌐 Frontend
+- React.js
+- JavaScript
+
+### ☁️ DevOps & Infrastructure
+- AWS (EC2, S3)
+- Linux
+- Nginx
+- CI/CD Pipelines
+
+---
+
+## 📈 Currently Focused On
+
+- Building Micro SaaS products
+- API-as-a-Service platforms
+- Advanced Laravel architecture patterns
+- Exploring Go for system-level services
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moinulhasan&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinulhasan" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/moinul-hasan-4bb33a139" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+📫 Email: **moinulhasan.4960@gmail.com**  
+📄 Resume: shorturl.at/ltEQ6  
+
+---
+
+## 💡 Philosophy
+
+> Discipline beats motivation.  
+> Clean architecture beats quick hacks.  
+> Systems should scale without fear.
