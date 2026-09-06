@@ -53,22 +53,9 @@ The shape is the same whether it's a metro fare, a cinema seat, or a distributor
 
 ## Commits
 
+<img src="https://raw.githubusercontent.com/Moinulhasan/Moinulhasan/main/assets/stats.svg" alt="Contributions, commits, pull requests, reviews, repositories, stars, and language split" width="100%">
+
 <img src="https://raw.githubusercontent.com/Moinulhasan/Moinulhasan/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph being eaten by a snake" width="100%">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Moinulhasan&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0E2228&title_color=FF6A5E&text_color=9FBEC3&icon_color=F0B429&ring_color=FF3B2F" alt="GitHub stats" width="100%">
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moinulhasan&layout=compact&hide_border=true&langs_count=8&bg_color=0E2228&title_color=FF6A5E&text_color=9FBEC3" alt="Most used languages" width="100%">
-
-</td>
-</tr>
-</table>
 
 <img src="https://streak-stats.demolab.com?user=Moinulhasan&hide_border=true&background=0E2228&stroke=1D3B42&ring=FF3B2F&fire=F0B429&currStreakNum=EDF2F0&sideNums=EDF2F0&currStreakLabel=9FBEC3&sideLabels=9FBEC3&dates=5F868D" alt="Contribution streak" width="100%">
 
