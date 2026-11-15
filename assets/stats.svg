@@ -2,13 +2,13 @@
 <defs><linearGradient id="bgs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0E2228"/><stop offset="1" stop-color="#0A181C"/></linearGradient></defs>
 <rect width="880" height="320" rx="14" fill="url(#bgs)" stroke="#1D3B42"/>
 <text x="40" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#EDF2F0">what the last twelve months looked like</text>
-<text x="840" y="38" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#5F868D">rebuilt 14 Nov 2026</text>
+<text x="840" y="38" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#5F868D">rebuilt 15 Nov 2026</text>
 <line x1="40" y1="50" x2="840" y2="50" stroke="#1D3B42"/>
 <rect x="40" y="74" width="3" height="56" fill="#FF3B2F"/>
-<text x="58" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" fill="#EDF2F0">2,731</text>
+<text x="58" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" fill="#EDF2F0">2,746</text>
 <text x="58" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#7A9BA1">contributions <tspan fill="#5F868D">past year</tspan></text>
 <rect x="312" y="74" width="3" height="56" fill="#F0B429"/>
-<text x="330" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" fill="#EDF2F0">56</text>
+<text x="330" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" fill="#EDF2F0">57</text>
 <text x="330" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#7A9BA1">commits <tspan fill="#5F868D">authored</tspan></text>
 <rect x="584" y="74" width="3" height="56" fill="#35C08A"/>
 <text x="602" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" fill="#EDF2F0">0</text>
@@ -23,16 +23,16 @@
 <text x="602" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" fill="#EDF2F0">1</text>
 <text x="602" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#7A9BA1">stars <tspan fill="#5F868D">earned</tspan></text>
 <text x="40" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#5F868D">what the code is written in</text>
-<path d="M45.0 258 h299.2 a0 0 0 0 1 0 0 v14 a0 0 0 0 1 -0 0 h-299.2 a5 5 0 0 1 -5 -5 v-4 a5 5 0 0 1 5 -5 z" fill="#f1e05a" opacity="0.9"/>
-<path d="M344.2 258 h139.5 a0 0 0 0 1 0 0 v14 a0 0 0 0 1 -0 0 h-139.5 a0 0 0 0 1 -0 -0 v-14 a0 0 0 0 1 0 -0 z" fill="#4F5D95" opacity="0.9"/>
-<path d="M483.6 258 h134.9 a0 0 0 0 1 0 0 v14 a0 0 0 0 1 -0 0 h-134.9 a0 0 0 0 1 -0 -0 v-14 a0 0 0 0 1 0 -0 z" fill="#663399" opacity="0.9"/>
-<path d="M618.5 258 h89.0 a0 0 0 0 1 0 0 v14 a0 0 0 0 1 -0 0 h-89.0 a0 0 0 0 1 -0 -0 v-14 a0 0 0 0 1 0 -0 z" fill="#f7523f" opacity="0.9"/>
-<path d="M707.5 258 h88.3 a0 0 0 0 1 0 0 v14 a0 0 0 0 1 -0 0 h-88.3 a0 0 0 0 1 -0 -0 v-14 a0 0 0 0 1 0 -0 z" fill="#c6538c" opacity="0.9"/>
-<path d="M795.8 258 h39.2 a5 5 0 0 1 5 5 v4 a5 5 0 0 1 -5 5 h-39.2 a0 0 0 0 1 -0 -0 v-14 a0 0 0 0 1 0 -0 z" fill="#3178c6" opacity="0.9"/>
+<path d="M45.0 258 h297.1 a0 0 0 0 1 0 0 v14 a0 0 0 0 1 -0 0 h-297.1 a5 5 0 0 1 -5 -5 v-4 a5 5 0 0 1 5 -5 z" fill="#f1e05a" opacity="0.9"/>
+<path d="M342.1 258 h143.2 a0 0 0 0 1 0 0 v14 a0 0 0 0 1 -0 0 h-143.2 a0 0 0 0 1 -0 -0 v-14 a0 0 0 0 1 0 -0 z" fill="#4F5D95" opacity="0.9"/>
+<path d="M485.3 258 h133.9 a0 0 0 0 1 0 0 v14 a0 0 0 0 1 -0 0 h-133.9 a0 0 0 0 1 -0 -0 v-14 a0 0 0 0 1 0 -0 z" fill="#663399" opacity="0.9"/>
+<path d="M619.1 258 h88.3 a0 0 0 0 1 0 0 v14 a0 0 0 0 1 -0 0 h-88.3 a0 0 0 0 1 -0 -0 v-14 a0 0 0 0 1 0 -0 z" fill="#f7523f" opacity="0.9"/>
+<path d="M707.5 258 h87.6 a0 0 0 0 1 0 0 v14 a0 0 0 0 1 -0 0 h-87.6 a0 0 0 0 1 -0 -0 v-14 a0 0 0 0 1 0 -0 z" fill="#c6538c" opacity="0.9"/>
+<path d="M795.0 258 h40.0 a5 5 0 0 1 5 5 v4 a5 5 0 0 1 -5 5 h-40.0 a0 0 0 0 1 -0 -0 v-14 a0 0 0 0 1 0 -0 z" fill="#3178c6" opacity="0.9"/>
 <circle cx="45" cy="298" r="5" fill="#f1e05a"/>
 <text x="58" y="303" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#7A9BA1">JavaScript <tspan fill="#5F868D">38%</tspan></text>
 <circle cx="187" cy="298" r="5" fill="#4F5D95"/>
-<text x="200" y="303" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#7A9BA1">PHP <tspan fill="#5F868D">17%</tspan></text>
+<text x="200" y="303" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#7A9BA1">PHP <tspan fill="#5F868D">18%</tspan></text>
 <circle cx="273" cy="298" r="5" fill="#663399"/>
 <text x="286" y="303" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#7A9BA1">CSS <tspan fill="#5F868D">17%</tspan></text>
 <circle cx="359" cy="298" r="5" fill="#f7523f"/>
